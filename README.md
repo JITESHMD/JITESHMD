@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm JITESH M D</h1>
-<h3 align="center">"Exploring AI: Bridging AIML and Deep Learning Realms"</h3>
-<img align="right" alt="coding" width="400" src="https://tremhost.com/blog/wp-content/uploads/2023/05/istockphoto-1364859722-170667a.jpeg" >
 
+<h3 align="center">"Exploring AI: Bridging AIML and Deep Learning Realms"</h3>
+
+<div class="image-container">
+  <img align="right" alt="coding" width="950" src="https://cdn.pixabay.com/photo/2023/08/24/19/15/ai-generated-8211433_1280.png">
+</div>
+
+<div style="clear: both;"></div> <!-- Clear the float to ensure the next element doesn't float -->
+<div class="image-container">
+  <img align="right" alt="coding" width="400" src="https://tremhost.com/blog/wp-content/uploads/2023/05/istockphoto-1364859722-170667a.jpeg">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiteshmd&label=Profile%20views&color=0e75b6&style=flat" alt="jiteshmd" /> </p>
 
 - 🔭 I’m currently working on **Narural Language Processing(NLP)**
