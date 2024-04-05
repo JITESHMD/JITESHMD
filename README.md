@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JITESH M D</h1>
 <h3 align="center">"Exploring AI: Bridging AIML and Deep Learning Realms"</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mindinventory.com%2Fblog%2Fai-technology-trends%2F&psig=AOvVaw3WODGqQY3kyKRH44t4fOZP&ust=1712386492936000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDr-vi-qoUDFQAAAAAdAAAAABA9" >
+<img align="right" alt="coding" width="400" src="https://tremhost.com/blog/wp-content/uploads/2023/05/istockphoto-1364859722-170667a.jpeg" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiteshmd&label=Profile%20views&color=0e75b6&style=flat" alt="jiteshmd" /> </p>
 
